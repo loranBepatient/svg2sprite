@@ -1,0 +1,10 @@
+body{
+    background: #DFDFDF
+}
+
+
+#image_to_style {
+    width: 50px;;
+    fill: blue;
+    stroke: white;
+}
